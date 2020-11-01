@@ -5,3 +5,11 @@
 2020.10.27 10:08:22 INFO  started: Metals version 0.9.4 in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala' for client vscode.
 2020.10.27 10:08:23 INFO  time: initialize in 1s
 2020.10.27 10:08:25 WARN  no build tool detected in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 10:09:45 INFO  shutting down Metals
+2020.10.27 10:11:36 INFO  started: Metals version 0.9.4 in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala' for client vscode.
+2020.10.27 10:11:37 INFO  time: initialize in 1.01s
+2020.10.27 10:11:38 WARN  no build tool detected in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.27 10:12:21 INFO  shutting down Metals
+2020.11.01 18:04:27 INFO  started: Metals version 0.9.4 in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala' for client vscode.
+2020.11.01 18:04:28 INFO  time: initialize in 1.04s
+2020.11.01 18:04:30 WARN  no build tool detected in workspace '/mnt/d/Ubuntu/Code/coursera_Functional_Programming_in_Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
